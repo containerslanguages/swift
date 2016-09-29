@@ -2,7 +2,7 @@
 
 In this repository we share the source code related to the Swift language and the Copy Source container patter of the workshop [5 containers patterns for 5 languages](https://l0rd.github.io/talks/containers-and-languages/index_en.html).
 
-The original kitura todolist has been developed by IBM and can be found [here](https://github.com/IBM-Swift/Kitura-TodoList)
+The original kitura todolist has been developed by IBM and can be found [here](https://github.com/IBM-Swift/Kitura-TodoList). [Kitura](https://github.com/IBM-Swift/Kitura) is a Swift Web framework an HTTP server.
 
 ```bash
 git clone https://github.com/containerslanguages/swift
