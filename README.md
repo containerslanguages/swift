@@ -1,6 +1,6 @@
-# The Swift language and the Copy Sources container pattern
+# Swift and the Copy Sources containers pattern
 
-In this repository we share the source code related to the Swift language and the Copy Source container patter of the workshop [5 containers patterns for 5 languages](https://l0rd.github.io/talks/containers-and-languages/index_en.html).
+In this repository we share an example of "Swift and the Copy Source container pattern" for the workshop [5 containers patterns for 5 languages](https://l0rd.github.io/talks/containers-and-languages/index_en.html).
 
 The original [kitura todolist](https://github.com/IBM-Swift/Kitura-TodoList) has been developed by IBM as one of the sample Swift web applications for [Kitura](https://github.com/IBM-Swift/Kitura). Kitura is a cool Swift Web framework and HTTP server.
 
