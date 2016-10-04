@@ -1,3 +1,6 @@
+# To build it:
+# docker build -t swift-todolist .
+
 FROM swiftdocker/swift:snapshot-2016-09-02-a
 
 MAINTAINER Mario Loriedo <mario.loriedo@gmail.com>

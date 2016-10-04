@@ -7,8 +7,7 @@ The original [kitura todolist](https://github.com/IBM-Swift/Kitura-TodoList) has
 ```bash
 git clone https://github.com/containerslanguages/swift
 cd swift/kitura-todolist
-docker build -t swift-todolist .
-did=$(docker run -d -P swift-todolist)
-port=$(docker port $did 8090/tcp | cut -d \: -f 2)
-echo "Open to http://localhost:$port/v1/tasks"
+docker build -t containerslanguages/swift-todolist .
+docker run -d -p 8090:8090 containerslanguages/swift-todolist
+open http://localhost:8090/v1/tasks
 ```
